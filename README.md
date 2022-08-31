@@ -1,3 +1,4 @@
+Trevor Dorman, 2329939780
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
